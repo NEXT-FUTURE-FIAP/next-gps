@@ -22,20 +22,19 @@
 
 ### PARCEIROS
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<a href="https://www.fiaformulae.com/" target="_blank" style="text-align: center; margin-right: 10px;">
-<img loading="lazy" src="https://example.com/partner-logo1.png" width="100px">
+<a href="https://www.grandepremio.com.br/" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src=https://github.com/mareasea/gs-web/assets/136378912/87836721-5822-49e5-aaea-0414226b7c6c width="100px"
+</a><br>
+<br>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<a href="https://www.fiap.com.br" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src=https://github.com/mareasea/.github/assets/136378912/8eca5082-4fc2-417d-a5c6-2160af8069f3 width="150px"
 </a>
 <br>
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<a href="https://www.mercedes-benz.com/" target="_blank" style="text-align: center; margin-right: 10px;">
-<img loading="lazy" src="https://example.com/partner-logo2.png" width="150px">
-</a>
-<br>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<a href="https://www.renault.com/" target="_blank" style="text-align: center; margin-right: 10px;">
-<img loading="lazy" src="https://example.com/partner-logo3.png" width="150px">
-</a>
-<br> <br>
+<a href="https://www.mahindraracing.com/" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src=https://github.com/mareasea/gs-web/assets/136378912/2a83e492-76ac-4717-8e2b-ff4eebaec570 width="150px"
+</a><br> <br>
 
 ## Colaboradores do Projeto
 <div style="display: flex; justify-content: space-between; align-items: center;">
