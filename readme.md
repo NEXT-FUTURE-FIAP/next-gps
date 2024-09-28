@@ -9,10 +9,6 @@
 - **Integração com MQTT:** Facilitar a comunicação e transmissão de dados via MQTT para visualização em tempo real.
 - **Geração de Mapas Interativos:** Criar mapas que mostrem a posição atual dos carros usando a biblioteca Folium.
 
-### Próximas Atualizações
-**1.** Melhorias na precisão dos dados GPS.<br>
-**2.** Implementação de alertas em tempo real para eventos durante as corridas.<br>
-<br>
 
 ##### Tecnologias
 <a href="https://www.arduino.cc/" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=black"></a>
