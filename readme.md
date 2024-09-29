@@ -16,6 +16,12 @@ Next GPS é um projeto inovador para rastreamento ao vivo de carros de corrida d
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=black" alt="Python"></a>
 <a href="https://www.eclipse.org/paho/clients/java/" target="_blank"><img src="https://img.shields.io/badge/MQTT-FFB030?style=for-the-badge&logo=MQTT&logoColor=white&labelColor=black" alt="MQTT"></a>
 
+
+## ARQUITETURA DO PROJETO
+<img src="https://github.com/user-attachments/assets/d42725de-b773-4011-8f6c-a506d7f9472f">
+
+
+
 ## MONTAGEM DO PROJETO
 Para montar o sistema de rastreamento, siga os passos abaixo:
 
